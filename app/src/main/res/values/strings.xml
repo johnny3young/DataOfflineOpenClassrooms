@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataOfflineOpenClassrooms</string>
+    <string name="error_happened">An error ocurred</string>
+    <string name="external_storage_impossible_create_file">It´s not possible create file</string>
+    <string name="title_permission">title permission</string>
+</resources>
